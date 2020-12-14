@@ -5,4 +5,4 @@ eclipse plugin using swt browser
 server side html or local html file
 
 ## Native java logic
-Connect javascript function in browser and native java logic
+Connect javascript function and native java logic
